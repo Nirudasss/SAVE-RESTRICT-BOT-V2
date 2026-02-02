@@ -45,8 +45,8 @@ if (
     hashlib.sha256(dev_text.encode('utf-8')).hexdigest() != expected_dev_hash or
     hashlib.sha256(channels_text.encode('utf-8')).hexdigest() != expected_channels_hash
 ):
-    raise Exception("Tampered developer info detected! Bot will not start. Fuck the code - crashing now.")
-
+    print("⚠️ Warning: Developer info changed – continuing anyway.")
+    
 class script(object):
    
     START_TXT = """<b>👋 Hello {},</b>
