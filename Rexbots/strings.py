@@ -2,7 +2,7 @@
 # Don't Remove Credit
 # Telegram Channel @RexBots_Official
 
-HELP_TXT = """<b>🚀 Welcome to RexBots EliteBotz Restricted Bot - Complete Guide</b>
+HELP_TXT = """<b>🚀 Welcome to EliteBotz Restricted Bot - Complete Guide</b>
 
 <b>👋 How to Use Me</b>
 <blockquote expandable>
@@ -54,7 +54,7 @@ HELP_TXT = """<b>🚀 Welcome to RexBots EliteBotz Restricted Bot - Complete Gui
 • Premium users: Unlimited saves & batch size
 • Contact @PRESIDENTIND7 for support or premium purchase
 
-<b>Thank you for using RexBots! ❤️</b>
+<b>Thank you for using EliteBotz! ❤️</b>
 """
 
 COMMANDS_TXT = """<b>📜 All Available Commands</b>
